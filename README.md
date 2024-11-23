@@ -49,8 +49,8 @@ I am a Data Scientist and Analyst with a strong background in Electrical Enginee
 
 <p align="center">
     <a href="https://github.com/hlussiatti">
-        <img height="180em" src="https://streak-stats.demolab.com?user=hlussiatti&theme=transparent"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hlussiatti&layout=compact&theme=transparent"/>
+        <img height="180em" src="https://streak-stats.demolab.com?user=hlussiatti&theme=noctis_minimus&hide_border=true&border_radius="/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hlussiatti&show_icons=true&count_private=true&hide_border=true&theme=noctis_minimus&include_all_commits=true&count_private=true&hide=html"/>
     </a>
 </p>
 
