@@ -36,11 +36,9 @@ I am a **Data Scientist and Analyst** with a strong background in Electrical Eng
     <kbd style="padding: 10px; border-radius: 5px;">Business Intelligence</kbd>
     <br>
     <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; margin-top: 10px; gap: 15px;">
-        <a href="https://www.microsoft.com/en-us/microsoft-365/power-bi" target="_blank">
-            <img width="40px" src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Hero_BPI_icon1" alt="Power BI" />
+        <a href="https://www.microsoft.com/en-us/microsoft-365/power-bi" target="_blank"><img width="40px" src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Hero_BPI_icon1" alt="Power BI" />
         </a>
-        <a href="https://www.qlik.com/us/products/qlikview" target="_blank">
-            <img width="40px" src="https://res.cloudinary.com/talend/image/upload/q_auto/v1713297745/qlik/logos/logo-qlik_d49uek.svg" alt="QlikView" />
+        <a href="https://www.qlik.com/us/products/qlikview" target="_blank"><img width="40px" src="https://res.cloudinary.com/talend/image/upload/q_auto/v1713297745/qlik/logos/logo-qlik_d49uek.svg" alt="QlikView" />
         </a>
     </div>
 </div>
@@ -51,26 +49,20 @@ I am a **Data Scientist and Analyst** with a strong background in Electrical Eng
     <kbd style="padding: 10px; border-radius: 5px;">Cloud Tools & Frameworks</kbd>
     <br>
     <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; margin-top: 10px; gap: 15px;">
-        <a href="https://cloud.google.com/?hl=es" target="_blank">
-            <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" />
+        <a href="https://cloud.google.com/?hl=es" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" />
         </a>
         <a href="https://cloud.google.com/storage?hl=es-419" target="_blank">
             <img width="40px" src="https://www.gstatic.com/bricks/image/d0dd93bc46d02aa8bdf0473c82ba477394f43a5367936d4eb3d107ad24239648.svg" alt="Google Cloud Storage" />
         </a>        
-        <a href="https://cloud.google.com/functions" target="_blank">
-            <img width="40px" src="https://www.gstatic.com/bricks/image/LFxrE3agOH264RrZ5KSlxo1W7JHn1ABjNdqZ-yUJEnAg7xLqK6KBQxz7AbBcYbFUUtlv5kJi-RsHOg.png" alt="Google Cloud Functions" />
+        <a href="https://cloud.google.com/functions" target="_blank"><img width="40px" src="https://www.gstatic.com/bricks/image/LFxrE3agOH264RrZ5KSlxo1W7JHn1ABjNdqZ-yUJEnAg7xLqK6KBQxz7AbBcYbFUUtlv5kJi-RsHOg.png" alt="Google Cloud Functions" />
         </a>
-        <a href="https://cloud.google.com/bigquery" target="_blank">
-            <img width="40px" src="https://cdn.worldvectorlogo.com/logos/google-bigquery-logo-1.svg" alt="BigQuery" />
+        <a href="https://cloud.google.com/bigquery" target="_blank"><img width="40px" src="https://cdn.worldvectorlogo.com/logos/google-bigquery-logo-1.svg" alt="BigQuery" />
         </a>
-        <a href="https://streamlit.io/" target="_blank">
-            <img width="40px" src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="Streamlit" />
+        <a href="https://streamlit.io/" target="_blank"><img width="40px" src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="Streamlit" />
         </a>
-        <a href="https://fastapi.tiangolo.com/" target="_blank">
-            <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastAPI" />
+        <a href="https://fastapi.tiangolo.com/" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastAPI" />
         </a>
-        <a href="https://render.com/" target="_blank">
-            <img width="40px" src="https://avatars.githubusercontent.com/u/36424661?s=200&v=4" alt="Render" />
+        <a href="https://render.com/" target="_blank"><img width="40px" src="https://avatars.githubusercontent.com/u/36424661?s=200&v=4" alt="Render" />
         </a>
     </div>
 </div>
