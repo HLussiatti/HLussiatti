@@ -14,7 +14,7 @@ I am a **Data Scientist and Analyst** with a strong background in Electrical Eng
 ## 🛠️ Tech Skills
 
 <div align="center">
-    <kbd style="padding: 10px; border-radius: 5px;">Programming and Languages</kbd>
+    <kbd style="padding: 10px; border-radius: 5px; margin-bottom: 30px;">Programming and Languages</kbd>
     <br>
     <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; margin-top: 30px; gap: 20px;">
         <a href="https://www.python.org/" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" /></a>
