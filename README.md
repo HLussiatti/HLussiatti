@@ -14,8 +14,10 @@ I am a **Data Scientist and Analyst** with a strong background in Electrical Eng
 ## 🛠️ Tech Skills
 
 <div align="center">
-    <kbd style="padding: 10px; border-radius: 5px; margin-bottom: 100px;">Programming and Languages</kbd>
-    <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; margin-top: 50px; gap: 50px;">
+    <kbd style="padding: 10px; border-radius: 5px;">Programming and Languages</kbd>
+    <br>
+    <img src="https://via.placeholder.com/1x50/FFFFFF/FFFFFF" alt="" style="display: block;" />
+    <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 50px;">
         <a href="https://www.python.org/" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" /></a>
         <a href="https://jupyter.org/" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" /></a>
         <a href="https://numpy.org/" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="Numpy" /></a>
