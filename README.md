@@ -35,9 +35,13 @@ I am a **Data Scientist and Analyst** with a strong background in Electrical Eng
 <div align="center">
     <kbd style="padding: 10px; border-radius: 5px;">Business Intelligence</kbd>
     <br><br>
-    <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; margin-top: 30px; gap: 20px;">
-        <a href="https://www.microsoft.com/en-us/microsoft-365/power-bi" target="_blank"><img width="40px" src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Hero_BPI_icon1" alt="Power BI" /></a>
-        <a href="https://www.qlik.com/us/products/qlikview" target="_blank"><img width="40px" src="https://res.cloudinary.com/talend/image/upload/q_auto/v1713297745/qlik/logos/logo-qlik_d49uek.svg" alt="QlikView" /></a>
+    <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 50px;">
+        <a href="https://www.microsoft.com/en-us/microsoft-365/power-bi" target="_blank">
+            <img width="40px" height="40px" src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Hero_BPI_icon1" alt="Power BI" />
+        </a>
+        <a href="https://www.qlik.com/us/products/qlikview" target="_blank">
+            <img width="40px" height="40px" src="https://res.cloudinary.com/talend/image/upload/q_auto/v1713297745/qlik/logos/logo-qlik_d49uek.svg" alt="QlikView" />
+        </a>
     </div>
 </div>
 
