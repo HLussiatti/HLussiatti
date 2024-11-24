@@ -15,7 +15,7 @@ I am a **Data Scientist and Analyst** with a strong background in Electrical Eng
 
 <div align="center">
     <kbd style="padding: 10px; border-radius: 5px;">Programming and Languages</kbd>
-    <br>
+    <br><br>
     <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 50px;">
         <a href="https://www.python.org/" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" /></a>
         <a href="https://jupyter.org/" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" /></a>
