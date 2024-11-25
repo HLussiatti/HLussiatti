@@ -1,6 +1,6 @@
 ## Hi there, I'm [Hernán Lussiatti](https://github.com/HLussiatti) 👋
 
-I am a **Data Scientist and Analyst** with a strong background in Electrical Engineering and specialization in Electricity Markets and Renewable Energy. With over a decade of experience in the energy industry, I excel in solving complex challenges and delivering strategic solutions using advanced tools like **Python**, **SQL**, **Machine Learning**, **QlikView**, and **Power BI**.
+I am a **Data Scientist and Analyst** with a strong background in Electrical Engineering and specialization in Electricity Markets and Renewable Energy. I bring over a decade of experience in the energy industry, leveraging advanced tools such as **Python**, **SQL**, **Machine Learning**, **QlikView**, and **Power BI** to address complex challenges and provide strategic, data-driven solutions.
 
 ---
 
