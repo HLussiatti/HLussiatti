@@ -46,7 +46,7 @@ I am a **Data Scientist and Analyst** with a strong background in Electrical Eng
 <div align="center">
     <kbd style="padding: 10px; border-radius: 5px;">Cloud Tools & Frameworks</kbd>
     <br><br>
-    <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; margin-top: 30px; gap: 20px;">
+    <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px;">
         <a href="https://cloud.google.com/?hl=es" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" /></a>
         <a href="https://cloud.google.com/storage?hl=es-419" target="_blank"><img width="40px" src="https://www.gstatic.com/bricks/image/d0dd93bc46d02aa8bdf0473c82ba477394f43a5367936d4eb3d107ad24239648.svg" alt="Google Cloud Storage" /></a>
         <a href="https://cloud.google.com/functions" target="_blank"><img width="40px" src="https://www.gstatic.com/bricks/image/LFxrE3agOH264RrZ5KSlxo1W7JHn1ABjNdqZ-yUJEnAg7xLqK6KBQxz7AbBcYbFUUtlv5kJi-RsHOg.png" alt="Google Cloud Functions" /></a>
