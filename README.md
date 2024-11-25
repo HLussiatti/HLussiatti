@@ -1,6 +1,6 @@
 ## Hi there, I'm [Hernán Lussiatti](https://github.com/HLussiatti) 👋
 
-I am a **Data Scientist and Analyst** with a strong background in Electrical Engineering and specialization in Electricity Markets and Renewable Energy. With over a decade of experience in the energy industry, I excel in solving complex challenges and delivering strategic solutions using advanced tools like **Python**, **SQL**, **Machine Learning**, **QlikView**, and **Power BI**.
+I am a **Data Scientist and Analyst** with a strong background in Electrical Engineering and specialization in Electricity Markets and Renewable Energy. I bring over a decade of experience in the energy industry, leveraging advanced tools such as **Python**, **SQL**, **Machine Learning**, **QlikView**, and **Power BI** to address complex challenges and provide strategic, data-driven solutions.
 
 ---
 
@@ -72,6 +72,6 @@ I am a **Data Scientist and Analyst** with a strong background in Electrical Eng
 ## 📬 Contact Me
 <div align="center">
   <a href="https://github.com/hlussiatti" target="_blank"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-right: 10px;" /></a>
-  <a href="https://linkedin.com/in/hernanlussiatti" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-right: 10px;" /></a>
+  <a href="https://linkedin.com/in/hernan-lussiatti" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-right: 10px;" /></a>
   <a href="mailto:hernanlussiatti@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />  </a>
 </div>
