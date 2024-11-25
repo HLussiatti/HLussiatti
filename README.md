@@ -41,6 +41,7 @@ I am a **Data Scientist and Analyst** with a strong background in Electrical Eng
     </div>
 </div>
 
+<br>
 
 <div align="center">
     <kbd style="padding: 10px; border-radius: 5px;">Cloud Tools & Frameworks</kbd>
